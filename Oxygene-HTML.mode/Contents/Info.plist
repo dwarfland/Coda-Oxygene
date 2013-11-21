@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleGetInfoString</key>
+	<string>© RemObjects Software</string>
+	<key>CFBundleIdentifier</key>
+	<string>SEEMode.Oxygene-HTML</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Oxygene-HTML</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>7.0</string>
+	<key>CFBundleVersion</key>
+	<string>7.0</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>© RemObjects Software</string>
+</dict>
+</plist>

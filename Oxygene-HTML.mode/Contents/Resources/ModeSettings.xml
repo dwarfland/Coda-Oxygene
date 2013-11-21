@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE syntax SYSTEM "settings.dtd">
+<settings>
+    <recognition>
+        <extension>aspx</extension>
+        <extension>ASPX</extension>
+        <extension>ascx</extension>
+        <extension>ASCX</extension>
+        <extension>ashx</extension>
+        <extension>ASHX</extension>
+        <extension>master</extension>
+        <extension>MASTER</extension>
+    </recognition>
+    <color>0.515, 0.83, 0.522</color>
+</settings>

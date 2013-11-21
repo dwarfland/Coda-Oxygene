@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>/ASP-Oxygene-HTML/ASP Delimiter</key>
+	<string>_Default.ASP Delimiter</string>
+	<key>/ASP-Oxygene-HTML/ASP/Oxygene Functions</key>
+	<string>_Default.ASP/Oxygene Functions</string>
+	<key>/ASP-Oxygene-HTML/Comment</key>
+	<string>Comment</string>
+	<key>/ASP-Oxygene-HTML/Entities</key>
+	<string>HTML.Entities</string>
+	<key>/ASP-Oxygene-HTML/FunctionRegex</key>
+	<string>_Default.FunctionRegex</string>
+	<key>/ASP-Oxygene-HTML/Inline CSS</key>
+	<string>/ASP-Oxygene-HTML/Inline CSS</string>
+	<key>/ASP-Oxygene-HTML/Inline JavaScript</key>
+	<string>/ASP-Oxygene-HTML/Inline JavaScript</string>
+	<key>/ASP-Oxygene-HTML/Keywords</key>
+	<string>_Default.Keywords</string>
+	<key>/ASP-Oxygene-HTML/Numbers</key>
+	<string>_Default.Numbers</string>
+	<key>/ASP-Oxygene-HTML/Opening Script Tag</key>
+	<string>/ASP-Oxygene-HTML/Opening Script Tag</string>
+	<key>/ASP-Oxygene-HTML/Opening Style Tag</key>
+	<string>/ASP-Oxygene-HTML/Opening Style Tag</string>
+	<key>/ASP-Oxygene-HTML/Script Tags</key>
+	<string>/ASP-Oxygene-HTML/Script Tags</string>
+	<key>/ASP-Oxygene-HTML/SingleComment</key>
+	<string>SingleComment</string>
+	<key>/ASP-Oxygene-HTML/SingleComment2</key>
+	<string>SingleComment2</string>
+	<key>/ASP-Oxygene-HTML/String</key>
+	<string>String</string>
+	<key>/ASP-Oxygene-HTML/Style Tags</key>
+	<string>/ASP-Oxygene-HTML/Style Tags</string>
+	<key>/ASP-Oxygene-HTML/Tags</key>
+	<string>HTML.Tags</string>
+	<key>/CSS/Attribute state</key>
+	<string>/CSS/Attribute state</string>
+	<key>/CSS/AutodocComment</key>
+	<string>/CSS/AutodocComment</string>
+	<key>/CSS/CSS Attributes</key>
+	<string>/CSS/CSS Attributes</string>
+	<key>/CSS/CSS Colors</key>
+	<string>/CSS/CSS Colors</string>
+	<key>/CSS/CSS Digits</key>
+	<string>/CSS/CSS Digits</string>
+	<key>/CSS/CSS Keywords</key>
+	<string>/CSS/CSS Keywords</string>
+	<key>/CSS/Comment</key>
+	<string>/CSS/Comment</string>
+	<key>/CSS/Inside curly brackets</key>
+	<string>/CSS/Inside curly brackets</string>
+	<key>/CSS/Round bracket</key>
+	<string>/CSS/Round bracket</string>
+	<key>/CSS/SingleString</key>
+	<string>/CSS/SingleString</string>
+	<key>/CSS/String</key>
+	<string>/CSS/String</string>
+	<key>/JavaScript/AutodocComment</key>
+	<string>/JavaScript/AutodocComment</string>
+	<key>/JavaScript/Characters</key>
+	<string>/JavaScript/Characters</string>
+	<key>/JavaScript/Comment</key>
+	<string>/JavaScript/Comment</string>
+	<key>/JavaScript/FunctionRegex</key>
+	<string>/JavaScript/FunctionRegex</string>
+	<key>/JavaScript/Keywords</key>
+	<string>/JavaScript/Keywords</string>
+	<key>/JavaScript/Numbers</key>
+	<string>/JavaScript/Numbers</string>
+	<key>/JavaScript/Regular Expressions</key>
+	<string>/JavaScript/Regular Expressions</string>
+	<key>/JavaScript/SingleComment</key>
+	<string>/JavaScript/SingleComment</string>
+	<key>/JavaScript/SingleString</key>
+	<string>/JavaScript/SingleString</string>
+	<key>/JavaScript/String</key>
+	<string>/JavaScript/String</string>
+	<key>/XML/Attributes in Tags</key>
+	<string>/XML/Attributes in Tags</string>
+	<key>/XML/Strings in Tags</key>
+	<string>/XML/Strings in Tags</string>
+	<key>_Default</key>
+	<string>_Default</string>
+</dict>
+</plist>

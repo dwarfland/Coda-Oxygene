@@ -10,6 +10,8 @@
         <extension>ASHX</extension>
         <extension>master</extension>
         <extension>MASTER</extension>
+        <extension>pas</extension>
+        <extension>PAS</extension>
     </recognition>
     <color>0.515, 0.83, 0.522</color>
 </settings>
